@@ -1,4 +1,4 @@
 <?php
-echo 'hello';
+echo 'hello_test';
 
 //test 09-06
